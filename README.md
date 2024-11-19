@@ -18,8 +18,23 @@
     <tr>
         <td>Plots</td>
         <td>
+                Summary of When to Use Each Plot:<br/>
+                Scatter Plot: To show relationships between two continuous variables.<br/>
+                Line Plot: To show trends or changes over time.<br/>
+                Bar Plot: To compare different categories.<br/>
+                Histogram: To show the distribution of a single variable.<br/>
+                Box Plot: To show the distribution and detect outliers.<br/>
+                Pie Chart: To show proportions of a whole.<br/>
+                Heatmap: To visualize matrix data.<br/>
+                Violin Plot: To show data distribution across categories.<br/>
+                Area Plot: To visualize the cumulative sum over time.<br/>
+                Pair Plot: To show relationships between multiple variables.<br/>
+                Stacked Bar Plot: To show how parts contribute to a whole.<br/>
+                3D Plot: To visualize three-dimensional data.<br/>
+                Contour Plot: To show level sets of a function.<br/>
         </td>
         <td>
+            <a href="">Code</a> | <a href="">CSV</a>
         </td>    
     </tr>
 </table>
