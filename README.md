@@ -9,7 +9,7 @@
 
 <h4>make sure you run the below command to install necessary library</h4>
 <h5>pip install -r requirements.txt</h5>
-<table width="100%">
+<table width="100%" style="width: 100%">
     <tr>
         <th>Resource Type</th>
         <th width="60%">Title/Information/CodeLink</th>
