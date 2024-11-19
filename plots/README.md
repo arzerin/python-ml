@@ -1,6 +1,6 @@
 #### Computer Vision Research Assistant Work | Yolov8 | Yolov9 | OpenCV | LabelImg 
 
-<a href = "https://www.arzerin.com/">My Website<br><br>
+<a href = "../">Back to Main List<br><br>
 
 <h3>Plots💡</h3>
 
