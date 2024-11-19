@@ -17,16 +17,9 @@
     </tr>
     <tr>
         <td>Plots</td>
-        <td  width="60%">
-
-
-               
- 
-
+        <td>
         </td>
         <td>
-  
-        </td>
+        </td>    
     </tr>
-
 </table>
