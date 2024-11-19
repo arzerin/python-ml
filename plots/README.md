@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>Scatter</td>
-        <td><img src="images/bar_plot.png" width="250"/> </td>
+        <td><img src="images/scatter_plot.png" width="250"/> </td>
         <td>You have two continuous variables and want to show the relationship between them.</td>
         <td>Plotting time vs cells from a dataset.</td>
     </tr>
