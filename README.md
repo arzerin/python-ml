@@ -5,9 +5,9 @@
 
 ![Arifur Rahman ZERIN github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arzerin&bg_color=FFFFFF&color=111F68&line=111F68)
 
-<h3>Tasks Accomplished so far?💡</h3>
+<h3>Things covered 💡</h3>
 
-<h4>make sure you run the below command to install necessary library</h4>
+<h4>Make sure you run the below command to install necessary library</h4>
 <h5>pip install -r requirements.txt</h5>
 <table width="100%" style="width: 100%">
     <tr>
@@ -34,7 +34,7 @@
                 13. Contour Plot: To show level sets of a function.<br/>
         </td>
         <td>
-            <a href="plots.py">Code</a> | <a href="files/cells.csv">CSV</a>
+            <a href="plots/plots.py">Code</a> | <a href="files/cells.csv">CSV</a>
         </td>    
     </tr>
 </table>
