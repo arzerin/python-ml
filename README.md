@@ -17,10 +17,28 @@
     </tr>
     <tr>
         <td>Plots <br/><br/> Object (Horse) Detection using Yolov9</td>
-        <td  width="60%">This is one of the sample where you can see how I am trying to detect horses after downloading the horse dataset from Roboflow, then finding the horses in the video. I have used Yolov9 here.</td>
+        <td  width="60%">
+                <!-- -->
+                Summary of When to Use Each Plot:
+Scatter Plot: To show relationships between two continuous variables.
+Line Plot: To show trends or changes over time.
+Bar Plot: To compare different categories.
+Histogram: To show the distribution of a single variable.
+Box Plot: To show the distribution and detect outliers.
+Pie Chart: To show proportions of a whole.
+Heatmap: To visualize matrix data.
+Violin Plot: To show data distribution across categories.
+Area Plot: To visualize the cumulative sum over time.
+Pair Plot: To show relationships between multiple variables.
+Stacked Bar Plot: To show how parts contribute to a whole.
+3D Plot: To visualize three-dimensional data.
+Contour Plot: To show level sets of a function.
+                <!-- -->
+        </td>
         <td>
-            Google Colab <a href="https://colab.research.google.com/drive/1OvNOCwxixmEqlUH4Q4O2Q04q6nQtt4Qp?usp=sharing">Online</a> | <a href="week1/yolov9_object(horse)_detection.ipynb">Local</a> <br/><br/>
-            <a href="https://universe.roboflow.com/saban-ne0tf/horse-jehyp">Roboflow Dataset of Horse</a>    
+            <a href="plots.py">Code</a> <br/>
+            <a href="files/cell.csv">CSV FIle</a> <br/><br/>
+  
         </td>
     </tr>
 
