@@ -16,7 +16,7 @@
         <th>Link</th>
     </tr>
     <tr>
-        <td>Plots</td>
+        <td><a href="plots/">Plots</a></td>
         <td>
                 Summary of When to Use Each Plot:<br/>
                 1. Scatter Plot: To show relationships between two continuous variables.<br/>
